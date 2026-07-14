@@ -1,5 +1,5 @@
 # ![localloan thumbnail][localloan-thumbnail] LocalLoan ![localloan badge][localloan-badge]
-An android application that provides microfinance assistance. Discover and navigate the nearest microfinance establishment. Financial tools like loan/savings calculator and tracker can help users create better decisions and awareness.
+An Android application that provides microfinance tools. Discover and navigate the nearest microfinance establishment. Financial tools like loan/savings calculator and tracker can help users create better decisions and awareness.
 
 ## Table of Contents
 - [Features](#features)
@@ -24,7 +24,7 @@ An android application that provides microfinance assistance. Discover and navig
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- **[Android Studio][android-studio]**: For development environment.
+- **[Android Studio][android-studio]**: For IDE.
 - **[osmdroid][osmdroid]**: For map provider.
 
 <!-- Reference -->
@@ -36,6 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [compute-tab]: https://github.com/Mindkerchief/LocalLoan/assets/130748576/f3937930-38f8-4b92-8276-dfeb47688426
 
 [release-page]: https://github.com/Mindkerchief/LocalLoan/releases
-[latest-release]: https://github.com/Mindkerchief/LocalLoan/releases/download/v0.1.0-Alpha/LocalLoan-0.1.0-Alpha.apk
 [android-studio]: https://developer.android.com/studio
 [osmdroid]: https://github.com/osmdroid/osmdroid
