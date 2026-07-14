@@ -17,9 +17,8 @@ An android application that provides microfinance assistance. Discover and navig
 - **~~Tracker~~ (disabled)** - Save existing loan and savings information to conveniently track accounts.
 
 ## Installation
-1. Download the latest version of [LocalLoan][release-page].
-2. Install [LocalLoan-0.1.0-Alpha.apk][latest-release].
-3. Open the app and grant location permission.
+1. Download and install the latest version of [LocalLoan][release-page].
+2. Open the app and grant location permission.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
